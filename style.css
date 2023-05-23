@@ -1,0 +1,166 @@
+* {
+
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+ }
+ #navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
+ #navegador li a {
+    padding: 2px 7px 2px 7px;
+    color: #FFF;
+    background-color: #000000;
+    border: 1px solid #ccc;
+    text-decoration: none;
+ }
+
+ #navegador li a:hover {
+    background-color: gray;
+    color: #FFF;
+    
+ }
+b{
+    color: #FFF;
+}
+
+
+body h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;   
+    border-radius: 20px;
+    color: #fff;
+    
+    
+}
+
+body h2{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px; 
+    border-radius: 20px;
+    color: #fff;
+    
+
+}
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+p{
+    text-align: right;
+    height: 300px;
+    font-size:24px;
+    border: 3px solid #ffffffea;
+    text-align: justify;
+    color: #FFF;
+   
+         
+}
+p.pe{
+    text-align: right;
+    height: 300px;
+    font-size:24px;
+    border: 3px  #ffffffea;
+    text-align: justify;
+    color: #FFF;
+    
+}
+
+img.imagen1{
+   height: 200px;
+  
+
+}
+img.img2{
+    border-radius: 20px;
+    size: 20px;
+    align-items: center;
+    float: center;
+    height: 500px; 
+    width: 300px;
+}
+
+img.album{
+    
+    size: 20px;
+    height: 300px; 
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    
+
+  
+}
+img.album2{
+    
+    size: 20px;
+    height: 300px; 
+    width: 300px;
+    border-radius: 50%;
+    float: center;
+    
+
+  
+}
+img.album3{
+    
+    size: 20px;
+    height: 300px; 
+    width: 300px;
+    border-radius: 50%;
+    float: right;
+    
+
+  
+}
+img.izquierda{
+    border-radius: 20px;
+    size: 20px;
+    align-items: center;
+    float: left;
+    height:335px; 
+    width: 300px;
+    
+    
+    
+}
+img.derecha{
+
+    border-radius: 20px;
+    size: 20px;
+    align-items: center;
+    float: right;
+    height:300px;
+    width:300px;
+     
+     
+    
+   
+}
+
+section{
+   background-color: #000000;
+   border-radius: 20px;
+   margin: 0 auto;
+   height: 1000px;
+   width: 1850px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
+   align-items: center;
+   
+  
+}
